@@ -31,11 +31,11 @@
  - 运行configure (能根据系统的环境设置一下参数，用于编译)<br>
    `$ ../configure CXX=g++ --disable-async-updates`<br>
    运行后如图所示：<br>
-   ![configure](https://cl.ly/2F431s2P1d2U)
+   ![configure](https://cl.ly/2F431s2P1d2U/download/Image%202016-10-06%20at%205.11.44%20PM.png)
  - 编译<br>
    `$ sudo make install`
  - 编译完后文件目录如下<br>
-   ![目录](https://cl.ly/1Y1T27442P2H)<br>
+   ![目录](https://cl.ly/1Y1T27442P2H/download/Image%202016-10-06%20at%204.53.01%20PM.png)<br>
    再查看路径<br>
    `$ cd ..  `      
    `$ ls`<br>
@@ -61,7 +61,7 @@
  - 然后运行第一个例子<br>
    `$ ant -f runexample.xml -Dnumber=1`<br>
    如果成功，则如图所示<br>
-	![成功图片](https://cl.ly/1l2U2X2e1g1M)<br>
+	![成功图片](https://cl.ly/1l2U2X2e1g1M/download/Image%202016-10-06%20at%205.17.24%20PM.png)<br>
 
 ##how to install 安装笔记
  - 这次环境配置的实验遇到的问题比较个例，不具有普遍性<br>
