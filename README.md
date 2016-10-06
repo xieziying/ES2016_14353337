@@ -60,7 +60,7 @@
    `$ cd build/bin/main`
  - 然后运行第一个例子<br>
    `$ ant -f runexample.xml -Dnumber=1`<br>
-   如果成功，则如图所示\<br>
+   如果成功，则如图所示<br>
 	![成功图片](https://cl.ly/1l2U2X2e1g1M)<br>
 
 ##how to install 安装笔记
