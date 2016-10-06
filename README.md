@@ -41,7 +41,7 @@
    `$ ls`<br>
    `pwd`<br>
     比如：<br>
-	![路径](https://cl.ly/0X0x473y200x)<br>
+	![路径](https://cl.ly/0X0x473y200x/download/Image%202016-10-06%20at%204.55.50%20PM.png)<br>
     路径为：/root/systemc-2.3.1
 - 6.编译dol<br>
  - 进入刚刚dol的文件夹<br>
