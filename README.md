@@ -45,7 +45,7 @@
     路径为：/root/systemc-2.3.1
 - 6.编译dol<br>
  - 进入刚刚dol的文件夹<br>
-           <code>$ cd ../dol
+   `$ cd ../dol`
  - 修改build_zip.xml文件<br>
    找到下面这段话，就是说上面编译的systemc位置在哪里，<br>
    `<property name="systemc.inc" value="YYY/include"/>`<br>
@@ -60,7 +60,7 @@
    `$ cd build/bin/main`
  - 然后运行第一个例子<br>
    `$ ant -f runexample.xml -Dnumber=1`<br>
-   如果成功，则如图所示<br>
+   如果成功，则如图所示\<br>
 	![成功图片](https://cl.ly/1l2U2X2e1g1M)<br>
 
 ##how to install 安装笔记
