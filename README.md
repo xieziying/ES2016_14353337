@@ -62,6 +62,7 @@
    `$ ant -f runexample.xml -Dnumber=1`<br>
    如果成功，则如图所示<br>
 	![成功图片](https://cl.ly/1l2U2X2e1g1M)<br>
+
 ##how to install 安装笔记
  - 这次环境配置的实验遇到的问题比较个例，不具有普遍性<br>
    - 前期由于我的电脑是32位的WIn7系统，装载VMware虚拟机，版本只能装载到版本10，版本11和12都只能安装于64位的Win系统;
